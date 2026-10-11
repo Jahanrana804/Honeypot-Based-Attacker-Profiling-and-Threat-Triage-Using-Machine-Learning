@@ -1,0 +1,15 @@
+cowrie.json
+sessions.csv
+
+data/raw/
+data/processed/
+
+downloads/
+*.log
+*.sqlite
+.env
+
+__pycache__/
+*.pyc
+.venv/
+venv/
